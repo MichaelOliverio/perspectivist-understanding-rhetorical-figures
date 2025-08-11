@@ -1,0 +1,410 @@
+index,post_id_x,reply_id_x,actual,post_id_y,reply_id_y,input,prediction
+0,7961696982295378944,15902900000000000000,CONTEXT SHIFT,7961696982295378594,15902869978243358740,"""@USER Gianca già che ci sei regalale un paio di mutande vah che fuxia e giaguaré 'nzomma... ?"" ""@USER  @USER Anche per rompere il ghiaccio""",EUPHEMISM
+1,4824587311292975104,4652170000000000000,RHETORICAL QUESTION,4824587311292975614,4652172244294165548,"""@USER Non troppo buongiorno"" ""@USER Nonnino! Già sveglio? ??""",CONTEXT SHIFT
+2,7155693771356047360,18161900000000000000,OTHER,7155693771356046855,18161905213580884688,"""il terrore di essere rimpiazzata"" ""@USER il terrone di essere rimpiazzata""",OTHER
+3,5929177359346716672,5855670000000000000,EUPHEMISM,5929177359346716605,5855671312721211658,"""Elly #Schlein: ""Il lavoro deve tornare a essere un tema centrale. Per la destra il lavoro è un favore, per noi è un diritto""
+
+@ultimora_pol"" ""@USER Tanto per non essere banali""",CONTEXT SHIFT
+4,12099038560420169728,10284800000000000000,ANALOGY,12099038560420169473,10284801989587274790,"""Se solo la società perseguisse l'obiettivo di contenimento con la stessta stregua con cui ha inseguito Berlusconi e le sue mignotte saremmo salvi. /s
+Scusate dimenticato /s"" ""Se le toghe rosse avessere mandato un avviso di garanzia al virus, ora saremmo in una botte di ferro,""",OXYMORON
+5,6878336134883742720,15991800000000000000,OTHER,6878336134883742551,15991848650180007832,"""Dunque il consiglio gettonato di portarsi il meccanico non so che senso abbia, anzi se qualcuno mi dice cosa può fare un meccanico con una semplice occhiata sarei grato.
+Quello che mi sento di consigliare è
+
+cercare le vendite dei privati, tanto il rivenditore quasi mai ti da una garanzia reale e si limitano a pulire gli interni per renderla presentabile.
+non farti spaventare da macchie sui sedili e difetti estetici minori anzi usali per tirare il prezzo con la consapevolezza che con un po' di detailing la fai tornare nuova (stesso trucco che usano i commercianti)
+controllare la documentazione (tagliandi, bolli, manutenzioni straodinarie), capisci quali sono le prossime ""grosse "" manutenzioni, per esempio: revisione bombola gpl, dischi freni, cinghia o catena distribuzione..
+fai un giro di prova per sentire come va e verificare l'allineamento delle lamiere eventuali asimmetrie, aria tra i vari pannelli (anche se ultimamente escono già di fabbrica con tolleranze disgustose) per farti un idea se è stata incidentata. Alcuni usano uno lo spessimetro per misurare lo strato di vernice per capire se è stata riveniciata.. Considera che quelli economici non sono così affidabili.
+sottrai dal tuo budget massimo una cifra congrua per eventuali sorprese (su una utilitaria 500€ dovrebbero bastare per affrontare più o meno tutto tranne una rottura motore)..."" ""Già ti accende la macchina e può sentire se il motore suona bene.""",OXYMORON
+6,18184193230015000576,3263700000000000000,OTHER,18184193230015004878,3263697220254276145,"""@USER No no è giusto, ce deve sta, la nutri la coccoli la tieni calda, ce deve sta"" ""@USER Veramente ce pensa quell'altro. Io sono un mero elemento di disturbo.""",OXYMORON
+7,4625931298966675456,3210680000000000000,HYPERBOLE,4625931298966675422,3210681809367953482,"""Gli effetti del Covid-19 sulla popolazione : ho un principio di influenza, con temperatura a 37.4. 
+Appena mia madre l'ha saputo è quasi andata fuori di testa, è nel panico, sii sta misurando la temperatura anche lei e vuole avvisare le autorità.
+Salvatemi."" ""Rincara la dose dicendole che morirete tutti""",OXYMORON
+8,457436274759233728,11247500000000000000,CONTEXT SHIFT,457436274759233740,11247528056599234420,"""@USER ??☀️    ?❣"" ""@USER ?❄️?""",CONTEXT SHIFT
+9,12841824500967149568,13599000000000000000,OTHER,12841824500967152638,13599020026271593789,"""@USER  @USER Io mi sono perso nella  cronologia di  @USER ... adesso è nuovamente nel  @USER ?"" ""@USER  @USER  @USER  @USER  @USER Non se n'è mai andato: è un componente del PDitta da sempre.""",FALSE ASSERTION
+10,8374295896122236928,9960700000000000000,FALSE ASSERTION,8374295896122236596,9960698491608353483,"""#Camera
+Respinto in commissione un emendamento di AVS per modificare il nome del ""Ministro del Made in Italy"" in ""Ministero del fare italiano""
+
+@ultimora_pol"" ""@USER Tempo perso in cose inutili. E io pago....!""",OTHER
+11,1439242534760017920,10568700000000000000,FALSE ASSERTION,1439242534760018183,10568660044232783997,"""@USER ?non dovrebbe avere tre strisce? 
+#chiedoperunamico"" ""@USER  @USER Effettivamente. Cerca nell'armadio se trovi una striscia lì, persa dopo essersi scucita ?""",OXYMORON
+12,8727623984665907200,457492000000000000,OTHER,8727623984665906820,457491692921579564,"""Per una discussione mi serve il nome di un farmaco che veniva usato per impedire l'accumulo di energia da parte delle cellule e costringerle a usarla come calore.
+Che ha un effetto dimagrante terribilmente efficace ma rischi di morire perche ti cuoci dall'interno, senza che nessun medico possa far nulla.
+Ho sentito che veniva usato da bodybulider per perdere avere massima definizione prima di qualche gara e provoca sudorazione gialla che macchia qualunque cosa entri a contatto.
+Aiuto?"" ""Kaioh-Ken Pastiglie""",ANALOGY
+13,7033897647878070272,4174370000000000000,CONTEXT SHIFT,7033897647878069845,4174365284286873253,"""@USER Ah, ma la giornalista trattasi di Ilaria D'Amico. 
+Ok. 
+Va tutto bene."" ""@USER  @USER Tutto in famiglia""",CONTEXT SHIFT
+14,14927487631298500608,3984510000000000000,FALSE ASSERTION,14927487631298501188,3984511296452077107,"""Due si candidano in quanto ""ci vuole una donna"" nel #Pd: #Schlein e #DeMicheli. Una sola domanda: perché?"" ""@USER Perchè per un canguro è ancora presto.""",CONTEXT SHIFT
+15,13999466197412390912,8582060000000000000,RHETORICAL QUESTION,13999466197412393302,8582060949257759582,"""Comunque fuck you Valsugana, vi ho scritto una lettera motivazionale bellissima per entrare nella vostra clinica come tirocinante e son passate due settimane e manco una mail di risposta qualsiasi. 
+
+Basta me ne vado a Beacciano."" ""@USER Niente saronno?""",CONTEXT SHIFT
+16,3045493691802176000,5881810000000000000,CONTEXT SHIFT,3045493691802176106,5881810090518876243,"""Lo scrivo per tanti idioti che rispondono ai Twitter come le pecore.
+Sono un Sovranista, non sono vaccinato, non pagherò la multa e la mia Libertà non è in svendita."" ""@USER Lo scrivo per te … non bere più""",ANALOGY
+17,1679217763483685120,5478910000000000000,HYPERBOLE,1679217763483684543,5478906752054136546,"""Ho notato solo io che Berlusconi da quando è scoppiata l'epidemia è completamente sparito? Si è chiuso in un bunker?"" ""Starà surfando sugli squirt prodotti dalle fighe delle varie prostitute rinchiuso ad Arcore. Chiamalo scemo""",CONTEXT SHIFT
+18,17571549064257740800,12383100000000000000,OTHER,17571549064257738386,12383072170277129717,"""Nel caso qualcuno fosse curioso, questo è un video su come si effettua un tampone nasofaringeo."" ""No grazie, preferisco non sapere di essere infettato.""",OXYMORON
+19,1894119167367809024,9033280000000000000,OTHER,1894119167367808702,9033282269550186760,""">Sheryl Sandberg ha fatto simili commenti sulla sicurezza,  sottolineando che ""è un'azienda cinese, se le persone sono preoccupate dei  propri dati penso che ci siano molti motivi per farlo"".
+Disse la vacca al mulo..."" ""oggi ti puzza il culo!""",CONTEXT SHIFT
+20,7462581045673427968,14235400000000000000,RHETORICAL QUESTION,7462581045673427940,14235387086314957124,"""@USER Sarà la prima squadra forte che affrontano...."" ""@USER Quale delle due? ?""",CONTEXT SHIFT
+21,13615235974994190336,17921100000000000000,RHETORICAL QUESTION,13615235974994192540,17921102227611080135,"""Salvini ripropone il ponte sullo stretto di Messina, opera imprescindibile per lo sviluppo economico
+Condivido e rilancio: contestualmente realizzerei anche il tunnel sottomarino Civitavecchia - Cagliari
+Dai non facciamo come al solito la figura dei barboni, pensiamo in grande"" ""@USER Si può  proporre il ponte Palermo Cagliari già che ci siamo...una spesa unica..compri uno ..paghi tre...no com'è  la storia?""",OXYMORON
+22,10765217889857900544,12979700000000000000,OTHER,10765217889857901124,12979662768096991244,"""Già stati all'Artigiano in Fiera?"" ""@USER No, ma andarci non è uno dei miei desideri in questo momento. ?""",OTHER
+23,15318882553031809024,1457720000000000000,CONTEXT SHIFT,15318882553031808002,1457715404934972674,"""pensieri su cochise?"" ""@USER Pezzone degli audioslave""",CONTEXT SHIFT
+24,17212309861089630208,7213440000000000000,FALSE ASSERTION,17212309861089629397,7213436467281141349,"""@USER Ma i capelli sono optional?"" ""@USER Attiro più vecchie così...""",OXYMORON
+25,10543569204621709312,6478110000000000000,RHETORICAL QUESTION,10543569204621710499,6478106222062563980,"""Qui a Singapore hanno cominciato a rompersi le balle anche loro: dopo 10 giorni di un quarto delle persone in bus/metro con mascherina, ieri 3 su 21 e oggi 3 su 29."" ""Hai scritto 21 e 29 perché li hai contati uno per uno?""",OXYMORON
+26,5168625731641847808,6591050000000000000,CONTEXT SHIFT,5168625731641847314,6591052851845140780,"""Stanotte mi sa che superiamo i 100k. Io per commemorare prenderò del paracetamolo 500."" ""Non credo, finora l'aumento è stato tra i 1000/2000 casi al giorno. Penso ancora 4-5 giorni per arrivare a 100.000. In compenso domani potremmo essere finalmente superati anche sulla carta dall'Iran""",OXYMORON
+27,1004779540710112000,10540900000000000000,OTHER,1004779540710112239,10540907626678455839,"""Siamo sicuri non sia matteo montesi?"" ""Se po buccà chi drento?""",CONTEXT SHIFT
+28,10742053278056030208,6975850000000000000,ANALOGY,10742053278056034849,6975849585050914194,"""@USER  @USER Per esiliare dal suo amico sceicco il boy-scout feccia della politica italiana."" ""@USER  @USER Tarlo mentale.""",ANALOGY
+29,14374185223286280192,15962200000000000000,HYPERBOLE,14374185223286279150,15962231219628500958,"""@USER  @USER Sì ma non è Giusto."" ""@USER  @USER La giustizia e' aliena su questo pianeta!""",OTHER
+30,16167343742615099392,5036060000000000000,CONTEXT SHIFT,16167343742615103161,5036061917792258129,"""Io non ho mai capito perché si dovrebbero salvare i porno. Perché? Per quando non c'è internet?"" ""Perché avere delle bottiglie di vino a casa quando c'è il supermercato?""",RHETORICAL QUESTION
+31,4320113204215145984,16985200000000000000,OTHER,4320113204215146594,16985212201485188706,"""@USER Non essere così cattivo con lei...❤️❤️❤️"" ""@USER I don’t""",OTHER
+32,10294703797536010240,14854400000000000000,OTHER,10294703797536010927,14854425964142098611,"""Qualcuno di voi vuole azzardare con delle previsioni? Secondo me i casi continueranno ad aumentare, ed anche parecchio, anche se con il caldo dovrebbe rallentare. A quel punto secondo voi cosa succederà tra una settimana? Potrebbero prorogare la chiusura delle università e delle scuole?"" ""Se i test non farai solo con la tua stima tra le mani rimarrai. /s""",RHETORICAL QUESTION
+33,1387389979920722944,7871260000000000000,CONTEXT SHIFT,1387389979920722676,7871259135814432605,"""Conoscete parole italiane in cui le lettere “n” ed “m” sono attaccate, in questo preciso ordine (“nm”)? Perché ero convinto che non potessero esistere, e quindi sarebbe meglio scrivere staccati nomi propri di persona come “Gian Marco” e “Gian Maria”. Però mi sto chiedendo se effettivamente sia così."" ""Che ne dici di Myanmar?""",OXYMORON
+34,8657171621256952832,5812260000000000000,CONTEXT SHIFT,8657171621256953093,5812261606230189093,"""@USER  @USER Buon Compleanno a Marty. ??"" ""@USER  @USER  @USER Diventerà un successo quella canzone ☺️""",FALSE ASSERTION
+35,955066013186157056,7841040000000000000,RHETORICAL QUESTION,955066013186157002,7841042260941017515,"""@USER Ma che sei tu lo sfogatoio umano??? ?"" ""@USER ???son sempre in mezzo come il prezzemolo ???""",ANALOGY
+36,9117711307358630912,7916660000000000000,CONTEXT SHIFT,9117711307358630712,7916655201224424892,"""Intanto l'andamento in Francia segue un andamento che sembra speculare a quello nostro di una decina di giorni fa. Attualmente 178 casi con 4 vittime."" ""Copioni""",ANALOGY
+37,4178595591294574080,16143900000000000000,FALSE ASSERTION,4178595591294573730,16143875424791040166,"""Sono dalla dentista. Prima di farmi entrare si è presentata con la mascherina e mi ha messo dell'amuchina in mano. Ok..."" ""Non era amuchina, bensì lubrificante""",OXYMORON
+38,10274209232461860864,1533160000000000000,CONTEXT SHIFT,10274209232461856236,1533160137394887569,"""Una volta una persona saggia mi ha detto che scrivere è pericoloso, perché non sempre si ha la garanzia che le tue parole saranno lette nello stesso spirito con cui sono state scritte.
+—  Jojo Moyes"" ""@USER Sei una donna  seria ti vorei conoscerti  per amicizia""",FALSE ASSERTION
+39,11611645251669049344,7556330000000000000,CONTEXT SHIFT,11611645251669047719,7556327041522555872,"""Mi ripeto...
+Picard per un trekker è una fiumana di godurie...
+Maledetti, mi fanno risentire giovane..."" "">Picard per un trekker è una fiumana di godurie...
+Pensavo si stesse parlando di prodotti surgelati e mi chiedevo perché mai, uno che fa trekking, dovrebbe trarne goduria. :/""",ANALOGY
+40,225288318251128288,4629310000000000000,HYPERBOLE,225288318251128266,4629313374876462186,"""Ho idealizzato una ragazza avuta in passato (tanto passato) e ora non mi piace più nessun altra. AMA?"" ""La soluzione è vederla ora, che sarà grassa, con 4 figli, disoccupata, grillina e col  pizzetto.""",OXYMORON
+41,7892378751459500032,16252800000000000000,RHETORICAL QUESTION,7892378751459499909,16252794309021202709,"""Vi prego togliete dal vostro vocabolario il termine “devianze giovanili”.
+Non possono essere apostrofati così i problemi dei giovani."" ""@USER Adesso ti adoro io ?""",RHETORICAL QUESTION
+42,11369149162983489536,7888320000000000000,OTHER,11369149162983494502,7888316588408967420,"""E se ti mandassi una foto? ?"" ""@USER Metterei un ""mi piace""""",CONTEXT SHIFT
+43,11558390939674519552,12676400000000000000,HYPERBOLE,11558390939674521663,12676378721740979604,"""Cugino, trisierato, morto!
+Zia tridosata morta!
+Cognato triceratopo estinto!"" ""@USER Io la quarta dose l’ho dovuta fare già lo scorso giugno, ora riesco a volare""",FALSE ASSERTION
+44,15313632188181430272,1809560000000000000,RHETORICAL QUESTION,15313632188181428820,1809564958676124831,"""@USER male è messa male ,molto male."" ""@USER Mi sa di si?""",CONTEXT SHIFT
+45,18387398790699239424,14325300000000000000,CONTEXT SHIFT,18387398790699243464,14325289729255053535,"""@USER Non perdi mai occasione per tacere… ogni giorno ne “ spari “ una per provare che esisti… che “ c’è vita sulla terra “ ma lascia perdere… fatti una vita, cresci, trovato un lavoro…"" ""@USER … trovati un lavoro… no “ trovato “""",OXYMORON
+46,630286693384318080,11609600000000000000,ANALOGY,630286693384318110,11609603629506075583,"""La vera domanda è: se ti sei iscritto al programma e quindi sai che devono venire con le telecamere nel tuo hotel/ristorante (il programma di Borghese), perché ca@ @USER non hai pulito bene la camera da letto/cucina?! Ammenoché quello che mostrano è post super pulizia straordinaria e quindi di norma sono ancora peggio."" ""Vabbè come quelli da cucine da incubo che si stupiscono che il ristorante va male e poi comprano lammerda che cucinano in un posto pieno di blatte...""non capisco perché i clienti non tornano più"" cit.""",ANALOGY
+47,18083945283865270272,13051300000000000000,EUPHEMISM,18083945283865270699,13051258150452316447,"""Recruiter 15 giorni fa ' Ti scriviamo ad inizio marzo per programmare il colloquio ' 
+&#x200B;
+Se le scrivessi ora chiedendo aggiornamenti, sembrerei troppo impaziente?"" ""Direi di sì, aspetta almeno un'altra settimana""",OXYMORON
+48,393080136253742016,16904200000000000000,CONTEXT SHIFT,393080136253742007,16904172624920341880,"""@USER Attirerò molte critiche ma devo riconoscerlo: sei un Signore!"" ""@USER  @USER La lampada antizanzare stona""",FALSE ASSERTION
+49,11926712388159440896,17502200000000000000,OTHER,11926712388159445365,17502157846068737338,"""@USER  @USER La Meloni e il Governo useranno,nel caso,i pannoloni (presidi di contenimento -ne avranno scorte)....finché  dura ???"" ""@USER  @USER  @USER Ahahahah..?""",CONTEXT SHIFT
+50,9568837740787623936,2564980000000000000,CONTEXT SHIFT,9568837740787623353,2564977630664608854,"""Tra 10 giorni ritornerò in Italia dopo un semestre all'estero. La cosa che mi rende più triste è che quasi sicuramente non rivedrò più una ragazza con la quale sono uscito qualche volta e che forse, in tutt'altre circostanze, sarebbe potuta essere qualcosa in più di un'amicizia, perché ho sempre avuto buone impressioni sul suo interesse nei miei confronti. Conto di rivederla questo fine settimana per salutarci definitivamente, magari resteremo in contatto via social, chissà..."" ""Si, ma almeno il cazzo buttaglielo dentro""",CONTEXT SHIFT
+51,1096004385442002944,18443900000000000000,HYPERBOLE,1096004385442002764,18443942209355330178,"""@USER Nessuno vuole vietare libertà di commercio e di impresa ma creare un sistema di tutele per i più poveri e far pagare di più i più ricchi per redistribuire."" ""@USER Insomma la gente si deve alzare la mattina per mantenerti (faccio esempio) se mi fate la rivoluzione""",OXYMORON
+52,13530102438651389952,4840720000000000000,OTHER,13530102438651393123,4840715148050485352,"""Punirne uno per educarne cento"" ""Prenderne uno per prenderne 100""",OTHER
+53,14048408814207320064,15664700000000000000,RHETORICAL QUESTION,14048408814207322858,15664738191177034123,"""@USER O che peccato ??"" ""@USER Già mi dispiace tanto ??""",CONTEXT SHIFT
+54,11137418050832379904,3817000000000000000,RHETORICAL QUESTION,11137418050832379654,3816999479361169791,"""Eri bono, ma poi mi hai detto che preferisci Ligabue a Vasco.
+
+#eribonoma"" ""@USER Gli hai dato anche una piccola spinta dietro alle spalle … per agevolare la caduta? ??""",RHETORICAL QUESTION
+55,10281194885854019584,14278400000000000000,CONTEXT SHIFT,10281194885854020219,14278385778710598219,"""Quanto PIL ci stiamo bruciando?"" ""Quanti morti stiamo facendo?""",RHETORICAL QUESTION
+56,3564946252259166208,11499800000000000000,RHETORICAL QUESTION,3564946252259166350,11499789980177999013,"""@USER Rispondono ai Twitter???
+Meglio che non parli di idioti e pecore ?"" ""@USER  @USER Cosa pretendi da un sovranità no vax? Chen abbia anche un cervello funzionante?""",RHETORICAL QUESTION
+57,6386761469479286784,6876180000000000000,CONTEXT SHIFT,6386761469479287029,6876182389500383664,"""Devo pubblicare una foto della figa?"" ""@USER Se devi fare follwer si""",FALSE ASSERTION
+58,7954843239286609920,8178510000000000000,FALSE ASSERTION,7954843239286609472,8178514984662953460,"""Si potrebbe fare un sub a parte dove si elencano tutte le teorie cospirazioniste riguardo al Coronavirus? 
+Ieri un mio amico asseriva che ci sia già la teoria del complotto per la quale l'America ha voluto colpire la cina e l'Italia per via dell'accordo sulla via della seta."" ""vai su /r/China_Flu loro saranno felicissimi di ascoltare tutte le teorie del complotto, anche la frenologia sul recettore ACE2 andava alla grande quindi non serve impegnarsi""",FALSE ASSERTION
+59,492369763312032128,17520700000000000000,HYPERBOLE,492369763312032140,17520746427191105100,"""Ho una domanda, gestisco un bar all'interno di un museo in Lombardia, il bar ha servizio diretto al bancone ed ha 7 tavolini con un totale di 30 sedute.
+Ora mi chiedo dopo che ieri si enfatizzava il discorso ""droplet"" quindi garantire distanza dei fruitori di almeno 1 metro l'uno dall'altro. Come è attuabile in un bar? Chi è preposto al controllo di tale regola? Sarà possibile servire al banco o solo ai tavoli? Grazie"" ""Basta chiedere ai clienti di andare in giro tipo le ballerine volanti""",CONTEXT SHIFT
+60,9470135544203663360,7580360000000000000,OXYMORON,9470135544203662717,7580355702657891160,"""Siamo ufficialmente scesi dal podio signori"" ""Tranquillo che stasera ci risaliamo purtroppo""",CONTEXT SHIFT
+61,11899879421757480960,699644000000000000,FALSE ASSERTION,11899879421757476087,699644003890646908,"""Per giustificarsi escono fuori storie sul Napoli del 1990
+Storie sull'Inter del 1950
+Storie sul Milan probabilmente del 1899."" ""@USER No, non ne avete mai avuto storie, ma soprattutto una storia""",OXYMORON
+62,8482609725250125824,11859000000000000000,EUPHEMISM,8482609725250126267,11858972309289678173,"""Tra l'altro oggi ho anche un amico in panico perché era nella discoteca di Carpi dove è andata a ballare una ragazza potenzialmente a rischio contagio e ora gli cola il naso (che non credo sia un sintomo) ad ogni modo lo scemo si è anche baciato con una ragazza di cui non ricorda nulla... Chi l'avrebbe mai detto che in periodo di pandemia NON ogni buco è Galleria..."" ""> Some patients may have aches and pains, nasal congestion, runny nose, sore throat or diarrhea 
+Preso dal sito ufficiale del WHO sul coronavirus. Il naso che cola può essere un sintomo.
+&#x200B;
+Vabbè dai, almeno non ha la diarrea""",CONTEXT SHIFT
+63,2968926351009075200,10391400000000000000,OTHER,2968926351009075011,10391367793507987684,"""Psst ehi bambini veneti
+La volete un po' di DEMOCRAZIA?"" ""Non si può esportare democrazia in Vaticano signore!
+SemiCit.
+ URL""",CONTEXT SHIFT
+64,7477401530957351936,1206180000000000000,RHETORICAL QUESTION,7477401530957352384,1206181939592110880,"""Andare in giro con un Rolex al polso a Napoli lo sanno tutti che non è una best practice. Fare le rapine lo sanno tutti che non è una best practice. Secondo me non c'è UN colpevole, ma solo vittime. Compresi i colleghi del Carabiniere che per i prossimi mesi/anni dovranno lavorarci lì e la comunità che dovrà convivere con quella tensione sociale.
+*edited*"" ""Quindi dato che ho un Rolex al polso, sei autorizzato a rapinarmi?""",OXYMORON
+65,16971453668517500928,15948200000000000000,FALSE ASSERTION,16971453668517499625,15948167978896004945,"""@USER Tutti in trepida attesa ????"" ""@USER Soprattutto Nikla. Tigrotta è più discreta.""",FALSE ASSERTION
+66,13943343828615460864,9688060000000000000,ANALOGY,13943343828615455796,9688064331281294454,"""Peccato che il modellino costruito ha la brutta tendenza di smontarsi da solo"" ""È così fragile? Pensavo fosse difficile bissare la Delorean""",CONTEXT SHIFT
+67,888612363643747712,9901380000000000000,CONTEXT SHIFT,888612363643747745,9901376417448567248,"""Che cazzo sono i sedili multicottura della pubblicità Mercedes alla radio"" ""Quelli per cuocere tutti i cibi in tanti modi, duh
+O forse questi :p""",CONTEXT SHIFT
+68,16300389213436499968,7681940000000000000,OTHER,16300389213436496259,7681944978638246803,"""Ho sentito una ragazza che diceva ""io sono TANTA""."" ""Una bionda che abbonda""",FALSE ASSERTION
+69,11854247542220259328,17907300000000000000,CONTEXT SHIFT,11854247542220259733,17907323798396250315,"""Riuscire a farmi degli amici :'("" ""Ma poi qualcos’altro della tua vita ti starà comunque sulle palle""",CONTEXT SHIFT
+70,13001943395368790016,10475000000000000000,FALSE ASSERTION,13001943395368794277,10474993252439046566,"""Il punto non è che cosa si mangiano i cinesi a pranzo (sto qua da 5 anni e la roba peggiore che ho visto è il tofu puzzolente, che puzza di merda di cane). Il punto è che un governatore di una regione non può uscire con frasi razziste e qualunquiste, prima di tutto. E di sicuro non può farlo contro uno dei partner commerciali e strategici più importanti. Io conosco qua imprenditori veneti e non che si sono messi a strapparsi i capelli con l uscita di Zaia. Le esportazioni dall Italia alla cina stavano crescendo tantissimo negli ultimi anni. Il veneto piazza un sacco di vino nel mercato cinese. Con ste battute del cazzo rischi di rompere accordi commerciali ecc, perché i cinesi ti dicono che il vino buono lo fanno anche i francesi e non ci serve il prosecco.
+Comunque il giorno dopo ha mandato subito una lettera di scuse all ambasciatore cinese, e adesso lo incontrerà a Roma. Si vede che qualcuno gli ha fatto notare che cazzata assurda ha fatto"" ""che tristezza, sembra l'unica cosa che conti al mondo siano i soldi -.-'
+l'avessi saputo prima non avrei sprecato il mio tempo a tentare di farmi accettare per ciò che sono (gay), ma mi sarei subito messo ad accumulare denaro :D""",ANALOGY
+71,14468596749483630592,4827130000000000000,RHETORICAL QUESTION,14468596749483626397,4827129665735165285,"""Ma #Montero per caso ha fatto una fermata a casa Bargiggia ??
+Altrimenti non mi spiego tutto questo livore nei confronti della #Juve"" ""@USER Un caffè ☕️!!!! Solo un caffè ?""",RHETORICAL QUESTION
+72,255308143867597184,3714510000000000000,ANALOGY,255308143867597137,3714509432025276999,"""oh no, la nostra stratega di pagare i turchi per tenersi i migranti a tempo indefinito non ha funzionato, chi avrebbe mai potuto prevederlo.
+c'è una sola soluzione, chiaramente.
+paghiamo i greci per tenerseli a tempo indefinito, o chiunque altro in zona abbia voglia di farlo. 
+sicuramente questa volta funzionerà."" ""> paghiamo i greci per tenerseli a tempo indefinito
+Magari i paesi come la Grecia indebitati fino al collo in piena crisi economica accettano pure...
+.. un momento un momento un momento ...""",OXYMORON
+73,8182077132297058304,4587260000000000000,OTHER,8182077132297058592,4587262354479507693,"""Anche Francesca Russo, direttrice della Direzione Prevenzione e sicurezza alimentare del Veneto, sostiene che ""Il virus circolava da molto tempo, ora non serve più cercare chi l'ha portato""
+Passaggio chiave dell'intervista:
+>Sta dicendo che era impossibile bloccarlo?
+>""Esatto. Essendo presente anche negli asintomatici, cioè in persone che stanno bene e non hanno tosse o febbre, non c'erano misure realistiche per proteggere il Paese dall'epidemia. E non sappiamo chi sia il paziente zero dell'Italia: può essere uno straniero, ad esempio un turista tedesco, francese o cinese, oppure un italiano di rientro dall'estero""."" ""> Il cluster di Vò è collegato agli altri del Veneto o a quello di Codogno?
+""Al momento non ci risulta"".
+Ma, ma Ricciardi ha detto che hanno trovato la ""nota di congiunzione"" (senza spiegarla) e quindi sono un focolaio unico.""",OXYMORON
+74,14222935602055790592,11326200000000000000,RHETORICAL QUESTION,14222935602055790506,11326178856097489517,"""Rientro in ufficio dopo due mesi: diluvio, gente che ha preso la patente al lunapark, Outlook che crasha ogni 10 minuti, ufficio gelido...  
+k bll l vt..."" ""C'è gente che guida la moto in ufficio?""",CONTEXT SHIFT
+75,6358833546371151872,2866560000000000000,ANALOGY,6358833546371152076,2866558935812545471,"""Non ho mai avuto problemi a farmi sostituire un prodotto elettronico difettoso in un negozio fisico. Potresti chiedere di parlare col responsabile del punto vendita."" ""La ""Karen move"".
+Spesso funziona.""",CONTEXT SHIFT
+76,4712286480051747840,4224410000000000000,OTHER,4712286480051747486,4224412406036902847,"""Il governo americano dice che l'italia oltre ad essere zona rossa, è a serio rischio attentati terroristici. Cosa non sappiamo?"" ""come riesce l'America a buttare ulteriore panico solo lei lo sa.""",CONTEXT SHIFT
+77,7489313936521549824,7078800000000000000,CONTEXT SHIFT,7489313936521549730,7078804662830207026,"""Anche secondo Massimo Galli, infettivologo del Sacco di Milano, il virus gira indisturbato almeno da metà gennaio."" ""> «Chi ha cercato di infondere tranquillità, e li capisco, non ha considerato le potenzialità di questo virus. In quarantadue anni di professione non ho mai visto un’influenza capace di stravolgere l’attività dei reparti di malattie infettive. La situazione è francamente emergenziale dal punto di vista dell’organizzazione sanitaria. È l’equivalente dello tsunami per numero di pazienti con patologie importanti ricoverati tutti insieme. ...
+Si ma lui non pensa ai bar chiusi la sera? Perché vuole diffondere paure? Non vuole farci prendere gli aperitivi 1!!1! It's just the flu.""",RHETORICAL QUESTION
+78,10282731906424629248,15817800000000000000,ANALOGY,10282731906424625452,15817763508420977203,"""Ho visto i prezzi dell'interrail per curiosità
+Dopo aver visto che per prendere qualsiasi cosa che non sia un regionale c'è bisogno di prenotare il posto e nel 40% dei casi la prenotazione del posto costa più del prezzo del biglietto stesso posso dire che è una grandissima inculata"" ""Hanno dato in mano la gestione a TicketOne?""",ANALOGY
+79,5969871576465133568,14017200000000000000,ANALOGY,5969871576465133572,14017237498418812081,"""Bhè, credo sia giusto considerando che il proiettile sia entrato dalla schiena. Inoltre, 3 colpi! Non credo sia legittima difesa."" ""No no tranquillo è legittima difesa, come con Stefano o Aldrovandi o Uva""",ANALOGY
+80,4360074657789536256,16013400000000000000,EUPHEMISM,4360074657789536204,16013385024775975826,"""ah proprio un weekend di giovani scienziati Italiani..."" ""Almeno non era un narcotrafficante""",FALSE ASSERTION
+81,5724857037789025280,13083000000000000000,HYPERBOLE,5724857037789024993,13083017520244062607,"""Marò e come state tirando il protoleghismo come al solito.
+Da napoletano la cosa mi fa schifo e non l'avrei mai fatta. Ma poiché abito nella stessa città è come se l'avessi fatto anche io vero? Perché sto ragionamento non viene fatto in altre zone d'Italia?"" ""Ti aiuterebbe sapere che, dato che viviamo fisicamente vicino ad una percentuale di gente che delinque più o meno impunemente, l'unica alternativa è farci morire tutti bruciati/seppelliti dai detriti/soffocati da nubi tossiche, però gli dispiace per noi?""",RHETORICAL QUESTION
+82,13415829529808369664,7787860000000000000,RHETORICAL QUESTION,13415829529808365513,7787856245661930304,"""@USER Oggi ti accorgi dell’inflazione? 
+Che colpisce a 360 gradi tutti i bilanci, pubblici e familiari e tutto il bilancio dello Stato."" ""@USER  @USER Ministro, si contenga. Allora, quando torni in radio? Praticamente ormai ti ha intervistato anche la Sentinella del Canavese?""",CONTEXT SHIFT
+83,15452154017271209984,11998800000000000000,OTHER,15452154017271209005,11998771725444375193,"""#IlCircolodeiMondiali 
+I #Mondiali abbiamo detto.
+
+Dopo 21 minuti di trasmissione, ""ed ora parliamo della #Juventus "" e parte un servizio con musica di sottofondo da film di Dario Argento.
+
+Continuate pure ???"" ""@USER Facessero un servizio su intermerda e i suoi debiti ma figurati hanno il cartonato seduto al tavolone.""",ANALOGY
+84,15145496112429019136,11505300000000000000,ANALOGY,15145496112429022382,11505263211788103267,"""Se trovate più facile l'università che il liceo mi farei serie domande sulla vostra facoltà. D'altronde dovrebbe essere l'ordine naturale delle cose, si cresce, si matura e pian piano si affrontano argomenti più difficili.
+La verità è però che tante università non sono altro che un asilo 2.0 per ventenni"" ""Del resto lo sanno tutti che in ogni GDR il boss più difficile in assoluto é quello finale, soprattutto se é il più grosso del gioco.""",ANALOGY
+85,15169059911459409920,10309200000000000000,EUPHEMISM,15169059911459408271,10309176085348017995,"""Chiedo per un amico, Secondo voi uno che dovesse volare da Bologna a Parigi di questi tempi potrebbe portarsi dietro due canne senza beccare i cani in aeroporto visto le priorità generali?"" ""Volersi male ad ogni costo eh""",CONTEXT SHIFT
+86,3037383543302795776,6283640000000000000,CONTEXT SHIFT,3037383543302796324,6283644142388211856,"""Il caffè al bar, lo pago con moneta contante
+Se ho bisogno le scarpe, vado in un
+negozio, le provo, le riprovo, le compro
+A Natale, e non solo, vanno bene mercatini, 
+i negozi e le piccole imprese locali.
+Ritorniamo alle origini, torniamo a parlarci 
+a interagire... de visu."" ""@USER Beato te che non ti senti soffocare quando c'è troppa gente..""",OTHER
+87,11755500963030939648,12431600000000000000,OTHER,11755500963030936367,12431617714239409455,"""@USER mi aspetto anche io un regalo per favore, grazie !!"" ""@USER sogna""",OTHER
+88,9408805770120683520,2035190000000000000,HYPERBOLE,9408805770120683449,2035191926981981266,"""Mi confermate che 36,1 è da considerare febbre alta?!?!???⚜️"" ""@USER ???????‍♀️ da estrema unzione""",RHETORICAL QUESTION
+89,1679217763483685120,6187690000000000000,CONTEXT SHIFT,1679217763483684543,6187694910865506918,"""Ho notato solo io che Berlusconi da quando è scoppiata l'epidemia è completamente sparito? Si è chiuso in un bunker?"" ""Over 80.
+Lombardia.
+Contatti con un sacco di persone.""",OXYMORON
+90,2432806416627402752,11492500000000000000,OTHER,2432806416627403091,11492500343714452849,"""""La Cina mette in quarantena gli italiani"" 
+Cioè, si sta ribaltando la situazione..."" ""In realtà no perché noi non abbiamo mai messo in quarantena i cinesi""",OXYMORON
+91,16626886395331850240,7533790000000000000,EUPHEMISM,16626886395331853970,7533785234591007556,"""Mia madre è una donna sveglia ed intelligente.
+Stasera abbiamo ospiti, farà dei bocconcini di pollo al curry e peperoni, accompagnati dal riso. Ha la tendenza a farne poco di riso, e quindi le ho chiesto di farne di più, che tanto se avanza a me piace anche freddo.
+“Se faccio la tua dose di riso peró non mi ci sta nelle formine che volevo usare per presentare meglio il piatto”
+“...non vedo il problema?”
+“Il tuo riso è troppo, non ci sta”.
+“...metti la quantità che serve nelle formine e poi chi vuole farà il bis?”
+“Oh, sì. Vero”.
+Mia madre è una donna sveglia e intelligente."" ""Che fortunata ad avere un figlio sempre sul pezzo!""",CONTEXT SHIFT
+92,4520804865264936960,12052700000000000000,FALSE ASSERTION,4520804865264937407,12052725809972729004,"""avete tatuaggi? quali?"" ""la faccia di lino banfi in fronte""",CONTEXT SHIFT
+93,12561098575626790912,12674400000000000000,EUPHEMISM,12561098575626788279,12674379110877124783,"""Ho messo in piedi un thread in china flu per spiegare che noi italiani siamo gli unici ad aver bloccato i voli dalla cina al primo cinese positivo e monitoriamo la temperatura agli aereoporti
+ URL"" ""Non che sia servito a molto, sembra...""",EUPHEMISM
+94,12802596261741490176,6395060000000000000,FALSE ASSERTION,12802596261741493988,6395061022726320747,"""Auto più costosa = più cavalli = più benzina consumata a far passare i pedoni...
+Mi pare ecologicamente giusto non far passare i pedoni se la tua macchina ha più di 200cv...
+/s"" """"la mia auto pesa 2 tonnellate, il pedone 70 kg, è meglio se frena lui un momento e mi lascia passare""
+&#x200B;
+ecologicamente il ragionamento non fa una piega""",OXYMORON
+95,11534803039351519232,14401400000000000000,OTHER,11534803039351516013,14401413796579297426,"""Una vacanza all'insegna del fascino e della serenità
+
+Abu Dhabi è tutta da vivere
+
+Venite a scoprirla, seguendo il vostro ritmo!
+
+#FindYourPace #InAbuDhabi"" ""@USER Rayie""",HYPERBOLE
+96,1236265448438971904,4088920000000000000,HYPERBOLE,1236265448438971802,4088917524353094583,"""Secondo voi che possibilità ci sono che l'emergenza rientri in Lombardia entro un paio di settimane?
+La mia università si sta organizzando per le discussioni di tesi a distanza -ci sto sperando tantissimo perché sono all'estero ed eviterei di rientrare a Milano in questi giorni-, MA, se l'emergenza rientra le discussioni si faranno come al solito ma a porte chiuse.
+Devo abbandonare le speranze? Mi tocca ritornare in patria?"" ""Potresti essere uno dei primi a discutere la tesi in mutande.""",OXYMORON
+97,9838181499890583552,10423300000000000000,FALSE ASSERTION,9838181499890583489,10423294332678156256,"""Se posto altre due foto mi mandate al diavolo ?"" ""@USER No perché siamo fuori di testa certificati.""",CONTEXT SHIFT
+98,3078947007140050944,10710000000000000000,ANALOGY,3078947007140051398,10709996288788790791,"""I nutella biscuit sono una merda ma quelli nuovi dei Pan Di Stelle sono orgasmici."" ""Fanno cagare tutti e due ma quelli Pan di Stelle fanno un po' meno cagare.
+Comunque nutella biscuits = galletti + nutella, ci eravamo arrivati già decenni di fame chimica orsono.""",ANALOGY
+99,17101699480099239936,15609300000000000000,FALSE ASSERTION,17101699480099236488,15609252204141551532,"""Ragazzi, ogni sabato piove! E che è? Io comincio a essere complottista."" ""@USER Fatto x il ns bene, così non spendiamo soldi e li teniamo x le bollette ...""",FALSE ASSERTION
+100,10426144657201930240,4379940000000000000,OTHER,10426144657201928929,4379935730836888699,"""@USER io speriamo che me la cavo..."" ""@USER Come ho già detto, stamo tutti scarrupati ☺️☺️""",CONTEXT SHIFT
+101,14571755448335099904,8064450000000000000,ANALOGY,14571755448335103235,8064446870187057078,"""@USER Dunque chiariamo...sono metà toscana e metà pugliese ma vivo da due anni e mezzo in Romagna
+
+Quindi? ?"" ""@USER  @USER -1 -1 +1 = +1
+???""",RHETORICAL QUESTION
+102,12148897515124049920,10230900000000000000,RHETORICAL QUESTION,12148897515124050857,10230930535215515833,"""Che si fa per non far languire una conversazione su whatsapp senza sembrare patetici? Preferirei che mi si dicesse chiaramente “non ho voglia di parlare ora/ho da fare” piuttosto che dover portare il peso della conversazione da sola, che palle"" ""Visualizzare e non rispondere?""",CONTEXT SHIFT
+103,364716304175925376,7002360000000000000,CONTEXT SHIFT,364716304175925363,7002355718145839841,"""Qualcuno può postare la notizia dell'idiota influenzer/youtubber che ha violato la zona rossa solo per fare video e caricarli sul suo canale per avere visual? Gente del genere sarebbe solo da prendere a sberle"" ""Nessuna pietà per social babbo lo snitch""",OTHER
+104,12099038560420169728,16675900000000000000,CONTEXT SHIFT,12099038560420169473,16675858157400040650,"""Se solo la società perseguisse l'obiettivo di contenimento con la stessta stregua con cui ha inseguito Berlusconi e le sue mignotte saremmo salvi. /s
+Scusate dimenticato /s"" ""certo che questo coronavirus sta stanando un sacco di coglioni""",EUPHEMISM
+105,15909640808401659904,4919990000000000000,FALSE ASSERTION,15909640808401660433,4919986079066382405,"""Ho visto cose dell’altro mondo. Orgie di 4 giorni a base di alcol ,SESSO e GRAFENE. C’era anche un PRETE"" ""@USER Ma nooo,Barbara. Era Pirlon che faceva le punte alle matite per ricavare il grafene!""",FALSE ASSERTION
+106,702317291372904320,2344620000000000000,FALSE ASSERTION,702317291372904372,2344624925279090928,"""Secondo voi il PANINO CON LA MORTADELLA si può considerare OMEOPATICO?"" ""@USER Si.""",RHETORICAL QUESTION
+107,3045493691802176000,2186550000000000000,CONTEXT SHIFT,3045493691802176106,2186548156715543688,"""Lo scrivo per tanti idioti che rispondono ai Twitter come le pecore.
+Sono un Sovranista, non sono vaccinato, non pagherò la multa e la mia Libertà non è in svendita."" ""@USER e che ne fai del grafene che hai in vena?""",CONTEXT SHIFT
+108,12840277770070130688,17885300000000000000,RHETORICAL QUESTION,12840277770070131661,17885304786512091702,"""Caro Babbo Natale, mi hai silenziato, vero?"" ""@USER Credi ancora a babbo natale""",RHETORICAL QUESTION
+109,1679217763483685120,8067560000000000000,FALSE ASSERTION,1679217763483684543,8067559777741395873,"""Ho notato solo io che Berlusconi da quando è scoppiata l'epidemia è completamente sparito? Si è chiuso in un bunker?"" "">Si è chiuso in un bunker?
+essendo un boomer per forza""",RHETORICAL QUESTION
+110,7987151303712674816,7829230000000000000,FALSE ASSERTION,7987151303712675040,7829233348808666414,"""Piccola soddisfazione del giorno: dopo anni ho ripreso la chitarra e da qualche tempo mi esercito...e ho imparato quasi perfettamente la parte ritmica di highway to hell, so che è una cazzata ma mi ha dato soddisfazione"" ""Lo sappiamo tutti che prima hai provato Wonderwall ;)""",CONTEXT SHIFT
+111,8553934668525359104,6122080000000000000,FALSE ASSERTION,8553934668525359548,6122081151389576797,"""#donnalisi allora mi sorge un dubbio se Micol non è andata al GF per le telecamere,è andata per riconquistare  Edo D e rompere le palle ad Antonella?"" ""@USER Si e per diventare santa subito""",OXYMORON
+112,527554389017052224,13774800000000000000,CONTEXT SHIFT,527554389017052205,13774786005298998319,"""@USER Altro mitico travestimento di Fantomas @FabioLisci"" ""@USER  @USER  @USER Dietro liceo davanti museo ???""",OXYMORON
+113,15986361946082170880,16848500000000000000,RHETORICAL QUESTION,15986361946082174146,16848487518880439428,"""Ragazzi/e per piacere non venite qui in cerca di diagnosi. Fatevi visitare dal vostro medico curante, chiamate i numeri preposti, ma non affidatevi a dei completi sconosciuti che non hanno i mezzi e/o le competenze per farlo (corona virus a parte, adottatela come regola generale per favore)."" ""Scusa ho appena avuto una sincope leggendo il tuo post. Dici che è grave? /s""",OXYMORON
+114,16653175777918050304,11658100000000000000,FALSE ASSERTION,16653175777918050962,11658098842295024801,"""francamente la pasta al microonde sono tentato di provarla perché al lavoro ho quello e basta.
+Risparmierei soldi rispetto ai piatti precotti da microonde."" ""Non hai un mc vicino? È più salutare mangiare li tutti giorni.""",OXYMORON
+115,14672930942777870336,4389960000000000000,OTHER,14672930942777869739,4389956713331137748,"""Quindi senso comune confermato, chi guida Audi e BMW è un coglione."" ""Io sono rimasto a quelli con i Golf 4 grigio perla.""",OTHER
+116,7501166755663576064,17666000000000000000,OTHER,7501166755663576500,17665996701756597518,"""@USER Una tuttofare ??"" ""@USER Capito sì? ???""",RHETORICAL QUESTION
+117,18298855339031560192,12680200000000000000,RHETORICAL QUESTION,18298855339031564485,12680189878604401746,"""Oggi la ritardata della mia collega é riuscita ad essere mega sympa unendo in una sola frase il C. Virus e la mafia per via della mia provenienza sicula. Wow.
+such joke
+much fun"" ""È inglese? Sono di base scemi e con il complesso di superiorità.""",FALSE ASSERTION
+118,16565537520034279424,12210400000000000000,CONTEXT SHIFT,16565537520034275224,12210448347044972665,"""Che ne pensate di quegli ultracattolici, convinti che papa Francesco stia distruggendo la chiesa, che si scagliano con la bava alla bocca contro di lui augurandogli di morire a causa del Coronavirus, che ritengono una punizione divina? Come cavolo fanno a definirsi cattolici se augurano la morte a una persona che non gli ha fatto nulla di male? Che fine ha fatto il voler bene al prossimo?"" ""Direi loro di leggere il vangelo di Luca 13:1-6. Gli è indirizzato.""",RHETORICAL QUESTION
+119,14849029575208689664,6295240000000000000,HYPERBOLE,14849029575208684856,6295243627667993108,"""Madre mi ha fatto una domanda strana stamane.
+""Quanto costa un tampone per il coronavirus!""
+E niente, Google non mi ha dato risposta.
+Quanto costa allo stato italiano effettuare 1 singolo tampone e riceverne risposta?"" ""4000$ avevo letto""",OXYMORON
+120,17406266981620549632,13932800000000000000,RHETORICAL QUESTION,17406266981620550655,13932824916509766942,"""@USER Qualcuno sa come ci si potrebbe assicurare di questo?... ?"" ""@USER Io mi assicurerei del contrario...?""",OXYMORON
+121,10279940017783449600,2387680000000000000,CONTEXT SHIFT,10279940017783444627,2387683106799630597,"""organizzati con altri genitori e fate giocare i bambini insieme, poi quando crescono li puoi portare al planetario, li fai giocare al lebowski, li porti a teatro (per bimbi) oppure in giro per le campagne.."" ""Lebowski? Cioè la porto al bowling, a combattere contro i nichilisti e a distruggersi di White Russian?""",CONTEXT SHIFT
+122,7926235817378922496,8485090000000000000,HYPERBOLE,7926235817378922072,8485093943334291855,"""Ma vii, a livello psichiatrico , come state ?"" ""@USER se stavo bene mica ero qui""",CONTEXT SHIFT
+123,17948825530378829824,4603970000000000000,EUPHEMISM,17948825530378828840,4603973994291651916,"""Nel 2023 esce il nuovo film di Indiana Jones sempre interpretato da Harrison Ford: 80 anni! 
+Che gli vogliamo dire?"" ""@USER Attento al femore""",CONTEXT SHIFT
+124,16379255176565530624,10462000000000000000,OTHER,16379255176565534094,10462018945349578152,"""Fottuto moralismo cristianeggiante"" ""*Fottuto moralismo in generale
+La parte cristianeggiante é soltanto una scusa""",CONTEXT SHIFT
+125,12802596261741490176,12261900000000000000,OTHER,12802596261741493988,12261921827305638030,"""Auto più costosa = più cavalli = più benzina consumata a far passare i pedoni...
+Mi pare ecologicamente giusto non far passare i pedoni se la tua macchina ha più di 200cv...
+/s"" ""Ha più senso il ragionamento che frenare causa un consumo progressivo dei dischi dei freni e delle gomme: il consumo delle gomme genera polveri sottili mentre quello dei dischi comporta una sostituzione proporzionalmente anticipata degli stessi e quindi l'inquinamento dato dalla produzione del pezzo di ricambio.
+La scelta ambientalista è frenare il meno possibile.""",OXYMORON
+126,2306502567302935040,8660850000000000000,EUPHEMISM,2306502567302935077,8660853111156343949,"""La sensibilità che sbandieri #graduidamente su questo social non ti ha suggerito, già che c’eri, di fare un salto a Ischia a parlare con quelli che tu hai trasformato negli ultimi???? #GiuseppeConte sei un’autentica macchietta .. da rimuovere con uno spray."" ""@USER Quello  per i scarafaggi dovrebbe  andare bene""",CONTEXT SHIFT
+127,10644245602980409344,17770700000000000000,OXYMORON,10644245602980409727,17770688488279751800,"""Dove tagliereste per fare fronte al coronavirus?"" ""Taglio ai polmoni. Senza polmoni non si può morire di polmonite.
+black guy pointing finger at head""",CONTEXT SHIFT
+128,6621863004798281728,16813700000000000000,CONTEXT SHIFT,6621863004798281614,16813718916983401584,"""Alla terza volta che si pianta #Twitter va bene mandare una bestemmia come feedback?"" ""@USER Si
+
+Il Musk(io) lo hanno già tutto adoperato per il presepe""",FALSE ASSERTION
+129,5977190667122479104,9931290000000000000,EUPHEMISM,5977190667122478859,9931289976776163029,"""Mio babbo dice sempre: ""trovala orfana"""" ""Tuo padre è un uomo saggio""",FALSE ASSERTION
+130,9283656897473443840,11902700000000000000,FALSE ASSERTION,9283656897473442907,11902735492634000037,"""Bollettino della Protezione Civile di oggi:  URL 
+Si ""festeggiano"" i 2000 contagiati totali ed i 1000 in Lombardia; 52 deceduti; 149 guariti.
+742 ricoverati + 166 in terapia intensiva (quindi circa il 45% dei contagiati è ospedalizzato)."" ""A 3000 punti coronavirus vinci un biglietto gratis per una seduta di pedicure dal cinese.""",OXYMORON
+131,16822415573863280640,13445000000000000000,HYPERBOLE,16822415573863280985,13445025746676793122,"""Fai così: invita questi tuoi amici e dì loro che offri tu da bere e il dolce ( e magari un giro dopo al bar, non so che serata pensi di fare). 
+Digli di non farti il regalo ma che per il resto il conto si divide.
+Puoi anche attaccare un pippone che il regalo sia lo stare assieme etc etc
+&#x200B;
+Digressione: da sardo, il ""chi paga cosa"" è stato uno dei traumi sociali più grossi quando sono andato nel barbaro continente.
+Da noi chi invita paga. Punto. Invito 10 persone a prendere la pizza per cena? Pago io il conto. 
+Siamo al bar e chiamo io il cameriere? Il giro è mio. Allora il prossimo lo fa un altro. E quello dopo un altro. E credimi, è un ottimo modo per finire con un tasso alcolemico piuttosto alto piuttosto in fretta.
+&#x200B;
+Arrivato a Pisa cominciai ad essere invitato a compleanni in cui mi pagavo la cena e mettevo la quota del regalo. L'invitato pagava boh, la torta? Serate al bar dove ognuno pagava il suo etc etc.
+&#x200B;
+Questo per dire che è una cosa culturale e molto locale."" ""Mi sa abbiamo tutti avuto lo stesso trauma sociale, una volta usciti dall'isola :D""",ANALOGY
+132,17983287614789019648,12362200000000000000,HYPERBOLE,17983287614789022640,12362197363508914994,"""sono ancora in call ragazzi send eutanasia"" ""un cliente ha recuperato non so come il mio numero personale. Richiedo soccorso immediato.""",OXYMORON
+133,732865758052127488,17046100000000000000,FALSE ASSERTION,732865758052127456,17046125725826881438,"""Luca Zaia il comico
+> Coronavirus in Veneto, la proposta di Zaia: “Riaprire musei e cinema ma con distanza di un metro tra le persone”
+Qualche giorno fa qualcuno si chiedeva chi sarebbe stata la prima celebrità contagiata. Al di fuori dell'Italia, Luis Sepulveda (l'autore di ""La gabbianella e il gatto""). Considerata la non giovane età (70 anni), speriamo bene."" ""All'ingresso in omaggio un comodo metro tascabile""",CONTEXT SHIFT
+134,12762344047647358976,4934920000000000000,OTHER,12762344047647358653,4934917879037915800,"""Madonna bagai, riaprite le palestre o tagliatemi il cazzo, che tutta sta libido mi ha trasformato in un cammello arrapato"" ""E poi se sei in astinenza dal sesso puoi provare con metodi alternativi LoL""",ANALOGY
+135,2530636871780512768,905238000000000000,RHETORICAL QUESTION,2530636871780512863,905237976227119896,"""Scuole chiuse in Campania quando? lol"" ""Non le chiudono in liguria le chiudono in campania?""",RHETORICAL QUESTION
+136,12738344882000019456,17573000000000000000,OTHER,12738344882000022003,17573030983672170801,"""Bleah ho appena sentito la parola con la c, ""coccole""!"" ""@USER Scusa, ho sbagliato vocale, era ""caccole""...""",FALSE ASSERTION
+137,17218286934062159872,7840460000000000000,OTHER,17218286934062161374,7840462069541466104,"""Anche quest’anno guarderò i vostri alberi di Natale pensando:
+
+ma chi ve lo fa fare?"" ""@USER La gioia di vi… ah no.""",CONTEXT SHIFT
+138,6136925553124996096,18189700000000000000,RHETORICAL QUESTION,6136925553124996071,18189737867917875212,"""C'è così tanta gente in metro che il rischio contagio è meno dello 0%"" ""Io mi sto chiedendo dove sia finita tutta la gente che prima rendeva la metro una costipazione. A piedi? BikeMi?""",RHETORICAL QUESTION
+139,1796321055434843904,14810100000000000000,CONTEXT SHIFT,1796321055434844193,14810077150833138951,"""È più di una settimana che sono in autoisolamento (provincia di Milano), non ho avuto né febbre né tosse né raffreddore né mal di gola, ma da 2-3 giorni sento come la necessità di tossire alla fine dell'espirazione pur senza dare il colpo di tosse netto. Devo preoccuparmi? 
+Sono un tipo molto ansioso e ipocondriaco. Potrebbe essere l'aria secca di casa visto che cambio poco l'aria?"" ""Stai certamente male, ma molto probabilmente non nei polmoni.""",OXYMORON
+140,12903441351042940928,2957700000000000000,CONTEXT SHIFT,12903441351042937581,2957700043962959906,"""Il tour di bonaccini nardella (pulmino elettrico?) Partirà  da Bari. Mi raccomando sul palco Michele Emiliano"" ""@USER Giusto, bisogna uniformarsi ai tempi, i circhi non sono più di moda""",CONTEXT SHIFT
+141,3351706419049328128,4775270000000000000,EUPHEMISM,3351706419049328042,4775265474553845411,"""la mia temperatura essere tipo: ok parto da 37, salgo fino a 38, poi scendo a 36.6 illudendoti di essere guarita e ritorno a 37.5 per il meme"" ""@USER è un tema che ti sta a cuore cmq""",ANALOGY
+142,8372852051422961664,17839100000000000000,ANALOGY,8372852051422961806,17839050751443036096,"""Bar a Piazza Carolina: pago il caffè con la #cartadicredito dichiarando: “per dispetto a #Salvini”. Il barista quasi mi abbracciava e baciava. 
+
+Potrebbe essere una forma di protesta dell’Italia civile contro il passatismo evasore del governo!"" ""@USER Credibile quanto una moneta da 3 € …""",ANALOGY
+143,12327589089127030784,12311300000000000000,RHETORICAL QUESTION,12327589089127030384,12311323613480610166,"""Se volete un attacco di bile, un principio di infarto, un ictus sintonizzatevi su  Rai1."" ""@USER Grazieeeee faccio senza ?""",RHETORICAL QUESTION
+144,8911687171641719808,12840800000000000000,OTHER,8911687171641720073,12840805487723803534,"""Ho un dubbio sulle tette. Questo dubbio mi è venuto dopo aver visto delle tette che in costume sembravano molto più grandi di quanto fossero. Questi sono errori da non fare, quindi: come si capisce se c'è veramente materia o è un inganno ?"" ""Non svelare i miei trucchi cosi""",RHETORICAL QUESTION
+145,4182246863848148992,10201800000000000000,CONTEXT SHIFT,4182246863848149091,10201758524741496291,"""Io a fine mese dovrei andare per un paio di settimane in Emilia Romagna, poi una settimana a Bordeaux dal mio ragazzo e poi tornare in Inghilterra per continuare l'università. Secondo voi mi conviene skippzre l'Italia e andare direttamente in Francia?"" ""Ma io me ne andrei direttamente in Francia a scopare come se il mondo dovesse finire domani e basta.""",ANALOGY
+146,11071951095274190848,8806520000000000000,FALSE ASSERTION,11071951095274193319,8806515146477624007,"""Spiace per i non amanti del Football ma oggi giornata molto frizzante in NFL ?"" ""@USER Ed io sono fuori con amici. Maledette amicizie!!!""",OTHER
+147,9439828508304793600,16960000000000000000,ANALOGY,9439828508304793474,16960017177206458004,"""Che macchina avete? ? 
+(Ho appena comprato la macchina nuova e mi diverte correlare le personalità con le autovetture?)"" ""@USER Le Mizuno ?""",RHETORICAL QUESTION
+148,18045340422771570688,159165000000000000,ANALOGY,18045340422771569615,159164947786136889,"""Aldilà delle giravolte governative e non, sullo strappo iniziale di Lombardia e Veneto - e della reazione da Roma - si possono dare a questo punto diverse letture. Forse non è per caso che la Liguria di Toti li ha seguiti al volo, e non a caso Sala invece è in prima linea sul fronte del ""tutto fila tutto va bene"". Come ho letto in  articoli linkati qui in questi thread, ogni misura di salute pubblica è anche immediatamente una misura con risvolti politici, nel senso più ampio del termine...e in quello più profano dei calcoli a breve termine (...governo di unità nazionale etc).
+Ma sul fatto che la nostra classe politica in blocco abbia fatto una figura  colossale di incompetenza, mancanza di visione e di confusione - esattamente quello che NON vuoi vedere da chi ti governa, di fronte a una crisi - credo  non ci sia da discutere.
+Un aspetto sottovalutato della diffusione del virus è che non sarà, azzardo, una situazione da tempi brevi.
+Forse questo, insieme certo alla inchiodata comunicativa imposta dai vertici politici e non, spiega un certo calo apparente di attenzione e di allerta.
+La percezione collettiva, gonfiata e alimentata ad cazzum, è stata più o meno - ""oddio, arriva e mi mettono in quarantena, mi gonfio casa di roba o resto bloccato a morire di fame "". 
+E invece la situazione è seria ma non per quelle ragioni: ma per le possibili conseguenze sul sistema sanitario dovuti al numero di casi che richiedono trattamento. E questi potrebbero continuare per settimane, quindi servirebbe ragionare almeno sul medio periodo, e lì misurare i provvedimenti da prendere ora.
+Edit: non so più scrivere"" ""Scrivi come i professoroni""",OXYMORON
+149,6945640229171908608,13060500000000000000,OTHER,6945640229171908669,13060493841727604536,"""Renzi: “ricci oggi dice #Renzi disturba, come direbbe alla maestra un bambino  di quarta elementare. Io lo ricordo pochi anni fa che si spenzolava in cori adulativi sulla mia persona”"" ""@USER Menomale che si è ravveduto""",ANALOGY
+150,359007761229179712,7539490000000000000,HYPERBOLE,359007761229179682,7539488691515933556,"""come si traduce entitled? Una specie di arroganza?"" ""Probabilmente a mo di io sono io e voi non siete un cazzo.""",CONTEXT SHIFT
+151,2257238064643362048,5588800000000000000,HYPERBOLE,2257238064643361954,5588804634089702375,"""@USER scegli tu bianchi o neri?"" ""@USER ti anniento con entrambi""",FALSE ASSERTION
+152,12685626515092740096,11333800000000000000,HYPERBOLE,12685626515092742298,11333804666224189072,"""Peccato che non si possa denunciare per truffa aggravata un partito che non mantiene le promesse elettorali."" ""@USER Capirai allora dovrebbero stare tutti al gabbio tutti i partiti da 10 anni  fino ad oggi""",RHETORICAL QUESTION
+153,6200782206383500288,1910100000000000000,HYPERBOLE,6200782206383500216,1910098991632370691,"""What if il governo ha tutti i dati a disposizione ormai da controlli e quant'altro, e sa perfettamente come si evolve la situazione e sa che l'andamento non è preoccupante per casi di contagiati e necessità di ospedalizzazione?"" ""La situazione non è preoccupante  è la frase più ripetuta prima di un'invasione zombie""",ANALOGY
+154,13772995230818629632,474398000000000000,FALSE ASSERTION,13772995230818626978,474397791409998420,"""Amici miei, potete proteggervi dal coronavirus con una soluzione di biossido di cloro:  URL"" ""Ho sentito da un blogger che assomiglia molto a Jude Law che la forsizia fa miracoli!""",FALSE ASSERTION
+155,17571549064257740800,8316700000000000000,HYPERBOLE,17571549064257738386,8316696099347894782,"""Nel caso qualcuno fosse curioso, questo è un video su come si effettua un tampone nasofaringeo."" ""Oh cristo, preferirei che mi aprissero i polmoni, e non scherzo""",OTHER
+156,16302263758898020352,8042950000000000000,CONTEXT SHIFT,16302263758898016470,8042953822964241704,""">In Italia frenano i contagi: lunedì l'incremento dei malati è stato del 16% (258 casi in più) a fronte dell'aumento del 50% registrato il giorno prima. Di questi, inoltre, il 50% è asintomatico (o con sintemi lievi) e in isolamento domiciliare, il 40% è ricoverato con sintomi e solo il 10% in terapia intensiva. ""Un dato confortante"" dice il commissario Angelo Borrelli sottolineando che si tratta di una percentuale che ricalca il dato complessivo: su 1.835 malati, 927 sono in isolamento nella propria casa, 742 ricoverati con sintomi e 166 in terapia intensiva. Sono 149 i guariti, 52 i decessi."" ""si ma bella forza, hanno frenato anche i tamponi...""",OXYMORON
+157,1924498557111155968,13042300000000000000,OTHER,1924498557111155620,13042295114884894930,"""Ciaciona.
+O almeno penso che a Roma diremmo così, ma penso si possa usare solo per il sesso femminile"" ""Chiappona in alternativa""",FALSE ASSERTION
+158,17239694814309300224,1239070000000000000,OTHER,17239694814309298157,1239066701255211946,"""Mi sembra che ancora non sia stato riportato, comunque anche nella mia ridente Torre del Greco iniziano le ansie pesanti"" ""Cancella lo spazio tra la ] e la (""",FALSE ASSERTION
+159,3137790644280062976,9530790000000000000,RHETORICAL QUESTION,3137790644280063108,9530789368857545340,"""Questa ragazza che dialogando con altri tipi in palestra esclama: “io con chi ce l’ha sotto i 25cm non ci vado proprio”
+
+Ma brava eroina?️"" ""@USER E li trova?""",RHETORICAL QUESTION
+160,17672354307488139264,11727300000000000000,HYPERBOLE,17672354307488144282,11727315586133661339,"""Italiano, lavoro in Francia. Ultima volta nel nord Italia sarà stata nel 2005 per uno stage.
+Qui fa freddo, preso raffreddore violento. No mal di gola. No tosse. Starnutisco parecchio.
+In ufficio, ad ogni starnuto, il simpatico di turno: ""CORONAVIRUS”.
+Aiuto."" ""Lanciagli addosso i fazzoletti usati /s""",CONTEXT SHIFT
+161,4414116674616324096,8854870000000000000,FALSE ASSERTION,4414116674616324165,8854873632828096910,"""@USER Mi pongo una domanda: se la gobbentus venisse radiata, come giustamente meriterebbe,  tutti questi lacchè cosa faranno?"" ""@USER  @USER Prenderanno il reddito di cittadinanza""",OXYMORON
+162,3613038691848914944,565292000000000000,RHETORICAL QUESTION,3613038691848915463,565292024492303385,"""@USER Io ve lo dicevo che i giornalisti se lo fanno per davvero."" ""@USER  @USER Ovvio è stato detto in TV e la TV non dice bugie?""",OXYMORON
+163,10353713379511670784,7889330000000000000,OTHER,10353713379511671808,7889327051951419772,"""Comunque è facile pagare i bus per 600 mila persone in Lussemburgo..."" ""E con i guadagni del Lussemburgo...""",EUPHEMISM
+164,12053836099981969408,15092600000000000000,ANALOGY,12053836099981966480,15092630907500890786,"""Cioè ma è possibile che non riesco a trovare una singola persona in Italia che tiene paguri di terra come animali da compagnia? Capisco che sono animali caraibici ma non pensavo che fossero così poco diffusi"" ""Vuoi migliorare la tua vita grazie ai paguri come quel greentext famoso?""",RHETORICAL QUESTION
+165,2850064009792842752,16155700000000000000,HYPERBOLE,2850064009792842564,16155693498510497590,"""Considerata la situazione attuale, quanto ingenua e/o stupida sarei a cercare lavoro e volermi trasferire in Europa in autunno, meglio ancora se Italia o Francia?  Partendo dal Giappone e sapendo anche il cinese"" ""Vai a fare un esperienza in cina. Usa i white privilege che avresti la'. Fai soffrire il razzismo al tuo ragazzo jappo. Fate un po' di soldi che la' girano, e torni in giappone pensando ""cazzo dopo quell'esperienza io non me ne vado piu' dalla Japonia"".""",OXYMORON
+166,8593319126456509440,18392100000000000000,CONTEXT SHIFT,8593319126456509739,18392130683005231862,"""@USER  @USER che sarà operativo nel 2026...e prima che se fa? monnezza pe' tutti???!!"" ""@USER  @USER  @USER PIÙ monnezza per tutti""",RHETORICAL QUESTION
+167,14740895360806709248,690708000000000000,RHETORICAL QUESTION,14740895360806711009,690708159982087795,"""@USER Mmmm che bel culo"" ""@USER Ti piace?""",CONTEXT SHIFT
+168,4744139215692694528,14418000000000000000,FALSE ASSERTION,4744139215692694803,14418025248063088205,"""Quanti Italiani sono morti durante la realizzazione di queste ""ricette""?"" ""Ha sicuramente fatto piú vittime del coronavirus. Gli asiatici stanno tramando qualcosa di losco.... prima gli spaghetti al microonde con ketchup e adesso un virus della madonna ?""",ANALOGY
+169,954400581630060800,15189900000000000000,RHETORICAL QUESTION,954400581630060757,15189855149002636496,"""Volevo rinnovare i miei ringraziamenti più sincere mi per le #BimbeDiMorenoeAlex che continuano a lavorare per farci conoscere e supportano i nostri valori di inclusione e tolleranza. NOI SIAMO LORO.. noi NON siamo chi offende…chi sminuisce o chi attacca.  #Pace"" ""@USER Sei una bella persona ?""",RHETORICAL QUESTION
+170,16164952083934230528,2241330000000000000,ANALOGY,16164952083934226902,2241328335295699333,"""Ma se una persona a lavoro vi dicesse sei una caprona voi come la prendereste !?"" ""@USER A cornate! ?""",ANALOGY
+171,5110262296428008448,12676000000000000000,OTHER,5110262296428008719,12675994162805584705,"""Biden ha evidenti problemi di senilità. In un eventuale confronto con Trump verrebbe sbriciolato. Bloomberg è l'incarnazione di Lord Palpatine. Non sono un fan di Bernie, ma o ce la si gioca con lui o è persa."" ""Non che Trump non abbia già dimostrato evidenti problemi di linguaggio, tipici dell'età avanzata. Sarebbe un bel match.""",ANALOGY
+172,856473992583352192,9561800000000000000,EUPHEMISM,856473992583352234,9561801190578066439,"""#Adani non si può sentire dai.
+Il più porta sfiga di tutti i tempi come opinionista  @USER .
+#AdaniOut"" ""@USER  @USER L’anno cacciato da Sky, solo la Rai poteva riesumarlo…""",ANALOGY
+173,3732654630473097216,110952000000000000,CONTEXT SHIFT,3732654630473096494,110951503065107791,"""Alzi la mano chi  ha  amato qualcuno senza essere  corrisposto. Eh si, l’amore impossibile. Forse gli amori più  sofferti e tormentati son proprio quelli più grandi.
+
+Alzi la mano chi pur  amandosi tra loro, per un motivo o per l’altro, non riescono a stare insieme."" ""@USER Mancano quelli che stanno insieme pur non amandosi.""",OXYMORON
+174,11684652511432220672,8495650000000000000,FALSE ASSERTION,11684652511432219048,8495645490393788777,"""Credo che oggi scriverò qualcosa su congresso del Pd e renzismo."" ""@USER Brava! Fallo! C'è n'è un gran gran  bisogno!""",OTHER
+175,12068356125191430144,7906330000000000000,CONTEXT SHIFT,12068356125191434935,7906333829592464483,"""Devo dire che poteva essere peggio"" ""Vero. Manca la Nutella e un ciuffo di maionese come salsa a contorno.""",EUPHEMISM
+176,6704336624706271232,15276700000000000000,ANALOGY,6704336624706271088,15276675242485480973,"""@USER Che bei coglioni"" ""@USER Un pó da cavallo""",CONTEXT SHIFT
+177,7151181422750357504,7060190000000000000,FALSE ASSERTION,7151181422750357385,7060186702655038550,"""Se parcheggiassi la mia macchina all’interno di Area B a Milano prima delle 7:30 (prima dell’inizio del divieto) posso comunque uscire da Milano poi all’interno della fascia oraria prevista?"" ""No, devi aspettare le 19.30 anche per uscire.""",OXYMORON
+178,15621374748089249792,1864250000000000000,RHETORICAL QUESTION,15621374748089248322,1864254433926636509,"""@USER Hai fatto benissimo ? che bella mamma ?"" ""@USER Grazie ?""",CONTEXT SHIFT
+179,8673029279031176192,2090710000000000000,OTHER,8673029279031175941,2090714763405942499,"""Non ho ancora letto le sentenze di oggi del Tribunale di Twitter."" ""@USER scherza scherza""",CONTEXT SHIFT
+180,523482694209799168,1023730000000000000,EUPHEMISM,523482694209799242,1023726392286098439,"""@USER Avrà balbettato ""non ricordo"" ?"" ""@USER  @USER Sono abituati al "" non ricordo """"",RHETORICAL QUESTION
+181,9927703142179117056,9002570000000000000,RHETORICAL QUESTION,9927703142179116661,9002569272707188600,"""Eccomi!
+Sono un appassionato di ""wet shaving"" e collezionista di vecchie lamette (nel senso proprio di lametta incartata singolarmente); non so di preciso quante ne ho ma penso almeno un migliaio... non le ho mai catalogate :(
+Non esiste uomo che non possa trovare la combinazione perfetta di strumenti/manualità per radersi senza scannarsi o irritarsi la pelle; è solo questione di fare le cose nel modo migliore per la propria pelle e sperimentare un pochino.
+Partiamo dalle cose basilari da NON fare:
+- ASSOLUTAMENTE NO schiuma da barba
+- NO farsi la barba senza essersi lavato il viso
+- NO farsi la barba di fretta
+- ASSOLUTAMENTE NO rasoi a 104mila lame multiple rotanti con doppio carpiato dal trampolino più alto
+- ASSOLUTAMENTE NO rasoi usa e getta (anche monolama)
+Cosa invece, secondo me, è obbligatorio possedere:
+- SAPONE DECENTE: all'inizio possibilmente in crema visto che è più facile da montare rispetto al sapone ""duro""
+- PENNELLO: vanno bene un po' tutti, io prediligo i sitentici ma uso un po' di tutto: porcello, tasso, cavallo, sintetico...)
+- CIOTOLA per montare il sapone: va bene anche una scodella
+- LAMETTA (vediamo dopo)
+- RASOIO (vediamo dopo)
+Una volta lavato bene il viso monti il sapone col pennello prendendone il quantitativo di una nocciolina e poche gocce di acqua (che andrai ad aggiungere man mano che si monta).
+Una volta pronta la ""schiuma"" te la spalmi col pennello potentemente in faccia, schiaccia pure senza paura e fai movimenti circolari (non basta appoggiarsi la schiuma in faccia).
+A questo punto sembri babbo natale e puoi raderti.
+Il segreto è: meno passi il rasoio e meno irriti la pelle. Solitamente si fanno due o tre passate a seconda dei gusti, del risultato e della manualità.
+Prima passata: nel senso di crescita del pelo
+Seconda passata: obliquamente
+Terza passata: contropelo
+Personalmente faccio solo pelo e contropelo.
+Come fai a sapere il ""senso di crescita del pelo""? Facilissimo: passa la mano sulla barba di un paio di giorni e senti da che parte gratta (questo è il contropelo, il senso contrario è quello di crescita). E' praticamente certo che avrai dei punti in cui il pelo cresce in un senso e in altri in senso contrario... è normalissimo, la ""mappatura"" del viso richiede un po' di tempo ma è quella che fa la differenza.
+Tra una passata e l'altra ti rimetti la schiuma sul viso; la pelle deve rimanere costantemente umida (wet shaving... chi l'avrebbe mai detto?)
+Questione rasoio e lamette. Ne esistono infiniti modelli; limitandoci ai rasoi di sicurezza si differenziano principalmente in due categorie:
+CLOSED COMB: ovvero a pettine chiuso; garantisce una rasatura meno profonda ma più facilmente gestibile (nel senso che tagliarsi è praticamente impossibile o quasi, anche schiacciando).
+OPEN COMB: ovvero a pettine aperto: rasatura più profonda con meno passaggi ma, avendo la lama più scoperta, da maneggiare con più cautela (non va premuto sul viso ma si sfrutta il suo peso)
+Giusto per chiarezza: non credo sia mai morto nessuno al mondo sgozzato con un rasoio di sicurezza :)
+Sia CC che OC possono essere più o meno aggressivi (o profondi) in base a quanto ""espongono"" il filo della lametta.
+Per la scelta della lametta anche qui si apre un mondo. La forma è sempre la stessa ma cambia lo spessore, il filo, il trattamento ma soprattutto l'acciaio usato.
+Personalmente ho trovato la mia combo perfetta in: rasoio OC molto aggressivo con lametta molto dolce (sembra un controsenso ma non lo è).
+Raramente uso dopobarba e quasi mai quelli alcolici (con rare eccezioni)
+Che altro dire? Che alla fine la verità è che io mi faccio la barba quasi sempre con rasoi a mano libera vintage perché il loro comfort è iraggiungibile.
+Nella mia piccola collezione di rasoi ho una decina di ""mano libera"", una quindicina tra OC e CC, tre shavette (che non uso mai) e un fatastico kamisori (che è bellissimo da vedere e maneggiare ma difficilerrimo da usare)
+Se serve altro chiedi pure"" ""Quanto hai aspettato una discussione come questa?""",OTHER
+182,11853669944201299968,6859860000000000000,OTHER,11853669944201298733,6859858862964169623,"""Comunque a me l'ananas piace proprio tanto, non finirei mai di mangiarne quando c'è °:)"" ""Basta non metterlo dove tu sai dove!""",OTHER
+183,18085984606050760704,3945920000000000000,ANALOGY,18085984606050760423,3945915843498144279,"""per tutti i drogati di caffe' avete mai provato l'orzo istantaneo? Io sto lentamente facendo lo switch , certo non ha lo stesso aroma ma ha quasi lo stesso sapore di un nescafe , un buon orzo biologico poi costa un terzo del caffe' anche se ce ne vuole un po' di piu' per avere la stessa ""forza"""" "">per tutti i drogati di caffe' avete mai provato l'orzo istantaneo?
+&#x200B;
+Zio, è come dire ""hai mai leccato una figa? Buona eh, però non so, prova a sostituirla con la carta vetrata di tanto in tanto, che costa meno""""",ANALOGY
+184,4219267705690278912,8173530000000000000,CONTEXT SHIFT,4219267705690279623,8173525950570444551,"""Frasi celebri di film famosi:
+
+""... Non vi preoccupate ragazzi, tra 3 giorni m'ammazzo, mi butto dalla terrazza."""" ""@USER Porcaccia miseria ...non ho la terrazza ...???""",CONTEXT SHIFT
+185,4282571183500335104,17164000000000000000,HYPERBOLE,4282571183500334814,17164039023425786733,"""Le misure di ""agevolazione del contribuente"", alias condono, costano allo stato oltre 1 miliardo (vedi Documento Programmatico di Bilancio).  Senza queste si poteva aumentare da 2 a 3 mld i fondi (comunque inadeguati) dati alla sanità per l'aumento dei prezzi. Basta condoni!"" ""@USER E certo . Con la pressione fiscale che abbiamo rimarranno in Italia solo i cinesi e gli egiziani .""",HYPERBOLE
+186,11236300103531329536,13378300000000000000,RHETORICAL QUESTION,11236300103531326281,13378290050323101176,"""Prima di portare il notebook in assistenza, accertatevi che i gatti non abbiano diminuito la luminosità del monitor passeggiando sulla tastiera.
+
+Prego"" ""@USER A me lo mettono sempre in modalità aereo e me ne accorgo solo dopo essermi chiesta come mai non  ricevo le mail di lavoro ....""",OXYMORON
+187,6678462595339328512,6100410000000000000,CONTEXT SHIFT,6678462595339328827,6100411482346957449,"""Aumenta del 13% la bolletta del gas. Il governo Meloni aveva promesso di dedicare tutte le risorse contro l'aumento delle bollette ma invece si sono dedicati ad aumentare il contante e limitare l'utilizzo del Pos, provvedimenti che per la Corte dei Conti incentivano l'evasione!?"" ""@USER Solo una mente ""eccelsa"" potrebbe creare una relazione tra l'aumento del prezzo del gas e la circolazione del contante (o l'obbligo del POS). Ma dove mai ti ha scoperto l'amico Silvio?""",RHETORICAL QUESTION
+188,4570732536120891904,279302000000000000,CONTEXT SHIFT,4570732536120892495,279302136799953530,"""Avete gia’ deciso su quale donna buttarvi il mese di Dicembre?
+Sopratutto a chi dedicare,”sei bellissima,diversa,unica” 
+Daje che fa’ presto a girare il mese?"" ""@USER La compagna di babbo natale che sarà molto impegnato sto periodo""",CONTEXT SHIFT
+189,13390906219756009472,4552500000000000000,OTHER,13390906219756012723,4552496731404807745,"""quando qualcuno avra' il coraggio di definire un social US parassitario , capiro' che il mondo sta andando nella giusta direzione"" ""Quando lo dirà la maggioranza delle persone
+FTFY""",OXYMORON
+190,3067091126359724032,5623380000000000000,RHETORICAL QUESTION,3067091126359723998,5623382111703118926,"""@USER Strunz ?"" ""@USER Così? d’emblée? ?""",RHETORICAL QUESTION
+191,12245258018149509120,7745360000000000000,RHETORICAL QUESTION,12245258018149504903,7745357566381758226,"""@USER Uguale al tuo..???"" ""@USER Siamo in ottima compagnia ??""",RHETORICAL QUESTION
+192,541253097942894784,1442660000000000000,CONTEXT SHIFT,541253097942894825,1442662543820583416,"""Mi sa che probabilmente ci quarantenizziamo. La mia ragazza è venuta qui in Belgio col treno da Milano. O stiamo esagerando? Contatti non ne ha avuti, ma se davvero è ovunque e basta incrociare lo sguardo con qualcuno per prenderselo..."" "">Mi sa che probabilmente ci quarantenizziamo
+E se nasce una bambina poi....la chiameremo....Corona!""",OXYMORON
+193,15051144082008870912,14736000000000000000,OTHER,15051144082008871030,14736009073774645474,"""Gratis... Diciamo meglio che sono pagati con i soldi delle società con sede di comodo lì. In pratica glieli stiamo pagando noi"" ""M-ma il libero mercato europeo!""",OXYMORON
+194,17539115194999750656,2616120000000000000,OTHER,17539115194999755505,2616124266813447248,"""L'esercito nazista è sul punto di crollare. Apposta i CRIMINALI USA e i loro servi UE strepitano come aquile. I Satanisti che li pagano non lo accettano perchè sarebbe la fine della loro Dittatura Mondiale detta Nuovo Ordine."" ""@USER Mannaggialadroga... USA le gocce...""",CONTEXT SHIFT
+195,4127188764209179136,5294800000000000000,ANALOGY,4127188764209178883,5294803959021646396,"""Ma nessuno che parla delle minacce a suon di colpi di arma da fuoco alla caserma dei carabinieri? Ne vogliamo parlare? Fossi stato un carabiniere sarei uscito all'esterno con un pm12 e avrei fatto tabula rasa, così poi vediamo se in futuro mai qualcuno si permetta di fare un affronto del genere. Datemi del fascista, ditemi che così faccio il loro stesso gioco, sti cazzi."" ""rambo t'è caduta la bandana""",ANALOGY
+196,15166726173020559360,8793600000000000000,RHETORICAL QUESTION,15166726173020555620,8793596342129188254,"""Da oggi sono ufficialmente un’iscritta al M5S. #DallaParteGiusta"" ""@USER Grazie per l’informazione…posso andare a letto tranquilla sapendoti al sicuro “dalla parte giusta”… ma scusa tu chi saresti?!""",RHETORICAL QUESTION
+197,2026724236652621056,15985800000000000000,OTHER,2026724236652621339,15985819287471218724,"""Mi leccheresti la figa se te lo chiedessi gentilmente?"" ""@USER Ma anche si""",FALSE ASSERTION
+198,12440347481004769280,16857000000000000000,OTHER,12440347481004767015,16856958995869695592,"""Non credo che esista nel mondo civilizzato un altro Paese il cui governo fa la guerra ai pagamenti con carta di credito o bancomat"" ""@USER Contro il potere delle banche è meglio !""",FALSE ASSERTION
+199,7052809677862323200,4092240000000000000,OTHER,7052809677862322774,4092243886149381378,"""Domanda che non c'entra nulla, come si arriva ad avere 110k euro annui di debito?"" ""Ironico che lo chieda tu con il tuo username""",CONTEXT SHIFT
+200,3045493691802176000,1458020000000000000,EUPHEMISM,3045493691802176106,1458015100847778173,"""Lo scrivo per tanti idioti che rispondono ai Twitter come le pecore.
+Sono un Sovranista, non sono vaccinato, non pagherò la multa e la mia Libertà non è in svendita."" ""@USER E diciamolo""",ANALOGY
